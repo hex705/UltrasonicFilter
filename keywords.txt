@@ -1,0 +1,41 @@
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+UltrasonicFilter	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+available	KEYWORD2
+read	KEYWORD2
+
+begin	KEYWORD2
+getRaw	KEYWORD2
+getState	KEYWORD2
+getDistance	KEYWORD2
+getLastReading	KEYWORD2
+getPreviousReading	KEYWORD2
+getEmaKEYWORD2
+
+getFilterState	KEYWORD2
+getPresence	KEYWORD2
+setMaximumDistance	KEYWORD2
+getMaximumDistance	KEYWORD2
+setActiveInterval	KEYWORD2
+getActiveInterval	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+#eg	LITERAL1	Constants
+
+SONAR_ACTIVE	LITERAL1
+SONAR_STANDBY	LITERAL1
+
+
+
+
+
